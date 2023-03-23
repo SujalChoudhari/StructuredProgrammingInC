@@ -11,8 +11,7 @@ Since the late 19th century, C has been a popular programming language for gener
 MySQL database is written using C.⁣ Ruby and Pearl are mostly written using C.⁣ Most part of Apache and NGINX is written using C.⁣ Embedded Systems are created using C⁣
 
 
-# Topics covered in this Part
-
+# Topics covered 
 * [Introduction](https://github.com/SujalChoudhari/StructuredProgrammingInC/blob/main/00Introduction.md)
     * Features of C
     * Getting Started
