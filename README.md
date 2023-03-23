@@ -13,19 +13,19 @@ MySQL database is written using C.⁣ Ruby and Pearl are mostly written using C.
 
 # Topics covered in this Part
 
-* Introduction
+* [Introduction](https://github.com/SujalChoudhari/StructuredProgrammingInC/blob/main/00Introduction.md)
     * Features of C
     * Getting Started
     * What is IDE?
     * Compilation Process
     * Basic Syntax and Structure
-* Variables and Data Types
+* [Variables and Data Types](https://github.com/SujalChoudhari/StructuredProgrammingInC/blob/main/01VariablesAndDataTypes.md)
     * Basic data types (int, float, char, etc.)
     * Constants
     * Storage classes (auto, register, static, extern)
     * Type casting
     * Enumerated data types
-* Operators
+* [Operators](https://github.com/SujalChoudhari/StructuredProgrammingInC/blob/main/02Operators.md)
     * Arithmetic operators (+, -, *, /, %)
     * Relational operators (>, &lt;, >=, &lt;=, ==, !=)
     * Logical operators (&&, ||, !)
@@ -33,18 +33,18 @@ MySQL database is written using C.⁣ Ruby and Pearl are mostly written using C.
     * Ternary operator (?:)
     * Assignment operators (=, +=, -=, *=, /=, %=, etc.)
 
-* Control Structures
+* [Control Structures](https://github.com/SujalChoudhari/StructuredProgrammingInC/blob/main/04ControlStatements.md)
     * Conditional statements (if, if-else, switch-case)
     * Looping constructs (for, while, do-while)
     * Jump statements (break, continue, return, goto)
-* Arrays
+* [Arrays](https://github.com/SujalChoudhari/StructuredProgrammingInC/blob/main/05Array.md)
     * Declaration and Initialization
     * Accessing array elements
     * One-dimensional arrays
     * Multi-dimensional arrays
     * Pointers and arrays
     * Array as function arguments
-* Functions
+* [Functions](https://github.com/SujalChoudhari/StructuredProgrammingInC/blob/main/06Functions.md)
     * Function definition
     * Function call
     * Function prototypes
@@ -54,29 +54,29 @@ MySQL database is written using C.⁣ Ruby and Pearl are mostly written using C.
 
 
 
-* Strings
+* [Strings](https://github.com/SujalChoudhari/StructuredProgrammingInC/blob/main/07Strings.md)
     * Character arrays and strings
     * String operations (concatenation, comparison, copying, etc.)
     * String functions (strlen, strcpy, strcat, etc.)
-* Pointers
+* [Pointers](https://github.com/SujalChoudhari/StructuredProgrammingInC/blob/main/08Pointer.md)
     * Pointer declaration and initialization
     * Pointer arithmetic
     * Pointers and arrays
     * Pointers and functions (pass by reference)
     * Pointers to pointers (double pointers)
-* Structures
+* [Structures](https://github.com/SujalChoudhari/StructuredProgrammingInC/blob/main/09Structure.md)
     * Structure definition
     * Accessing structure members
     * Structures as function arguments
     * Array of structures
     * Nested structures
     * Pointers to structures
-* File I/O
+* [File I/O](10FileIO.md)
     * Opening and closing files
     * Reading and writing to files
     * File modes (read, write, append)
     * Binary file I/O
-* Dynamic Memory Allocation
+* [Dynamic Memory Allocation](https://github.com/SujalChoudhari/StructuredProgrammingInC/blob/main/11DynamicMemoryAllocation.md)
     * malloc() and calloc()
     * realloc() and free()
     * Dynamic memory allocation for arrays and structures
